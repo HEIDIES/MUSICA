@@ -1,0 +1,10 @@
+﻿  ConsoleApplication3.cpp
+f:\opencv\build\include\opencv2\core\mat.hpp(2585): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\build\include\opencv2\imgproc.hpp(591): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+ConsoleApplication3.obj : error LNK2019: 无法解析的外部符号 "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)，该符号在函数 "public: __thiscall cv::String::~String(void)" (??1String@cv@@QAE@XZ) 中被引用
+F:\OpenCV\build\x64\vc14\lib\opencv_world320.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\OpenCV\build\x64\vc14\lib\opencv_world320d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+c:\users\administrator\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe : fatal error LNK1120: 1 个无法解析的外部命令
